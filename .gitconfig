@@ -1,0 +1,3 @@
+[credential "https://github.vaticlabs.net"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
